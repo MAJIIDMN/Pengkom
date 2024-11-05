@@ -19,3 +19,5 @@ ALGORITMA
 - Adaptive Control
 - Clustering Algorithms (seperti K-Means)
 - State Machines
+
+1. Ubah nama variabel "chioce" menjadi "choice"
