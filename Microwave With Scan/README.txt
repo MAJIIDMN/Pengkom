@@ -1,4 +1,4 @@
-install modul cv2 dan pyzbar dulu deck
+#INSTAL MODUL CV2 SAMA PYZBAR DULU DECKK!!
 
 pip install opencv-python
 pip install pyzbar
