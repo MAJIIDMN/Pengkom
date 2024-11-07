@@ -104,7 +104,7 @@ class incode(comp):
         self.barcode = barcode
         namefood = namefood        
     def detect(self, code):
-        csvfile = open('pengkom\\barcodes.csv', newline='')
+        csvfile = open('barcodes.csv', newline='')
         foodcode = csv.reader(csvfile)
         next(foodcode)
         barcode = []
